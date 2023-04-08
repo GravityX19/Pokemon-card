@@ -4,6 +4,7 @@ Simple and responsive Pokemon card.
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/GravityX19/Pokemon-card/main/banner.png)
 
+![HTML](<https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white>)
 
 https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
 
