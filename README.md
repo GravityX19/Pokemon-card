@@ -10,5 +10,5 @@ Simple and responsible Pokémon card.
 
 ## PREVIEW
 
-# ![Banner](https://raw.githubusercontent.com/GravityX19/Pokemon-card/main/pc,tablet view.png)
+# ![mobile view](https://raw.githubusercontent.com/GravityX19/Pokemon-card/main/mobile view.png)
 # ![Banner](https://raw.githubusercontent.com/GravityX19/Pokemon-card/main/mobile view.png)
