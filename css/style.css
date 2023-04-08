@@ -1,0 +1,84 @@
+:root {
+  --color1: #F8B78B;
+  --color2: #e8945b;
+}
+
+html { /*Da las medidas reales quitando los paddings y masrggins por defecto.*/
+  box-sizing: border-box;
+  font-size: 70%;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: var(--color1);
+  background-image: url(../resources/img/fondoTop.svg), url(../resources/img/fondoBotton.svg);
+  background-repeat: no-repeat, no-repeat;
+  background-position: right 50vw bottom 50vh, left 50vw top 50vh;
+}
+
+.Container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.Card {
+  background-color: white;
+  width: 330px;
+  border: 3px solid #ffe251;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 2px 2px 15px rgba(49, 48, 48, 0.5);
+}
+.Card-header {
+  width: 100%;
+  display: block;
+}
+.Card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 1px solid var(--color1);
+}
+.Card-body-contentimg {
+  border: 5px solid #ef7423;
+  border-radius: 50%;
+  margin-top: 10px;
+  background-color: #f7caac;
+  box-shadow: 0px -10px 20px rgba(228, 90, 35, 0.3);
+  margin-top: -68px;
+}
+.Card-body-contentimg-img {
+  padding: 20px;
+}
+.Card-body-title {
+  margin-top: 2rem;
+  font-size: 2.7rem;
+}
+.Card-body-title span {
+  color: var(--color2);
+}
+.Card-footer {
+  display: flex;
+  justify-content: space-around;
+}
+.Card-footer-poder {
+  text-align: center;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+.Card-footer-castillo {
+  text-align: center;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+.Card-footer-cofre {
+  text-align: center;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}/*# sourceMappingURL=style.css.map */
