@@ -1,4 +1,4 @@
-# Pokemon-card
+# Pokemon-card ![https://github.com/Gravityx19](https://raw.githubusercontent.com/GravityX19/Pokemon-card/main/avatar.png)
 
 Simple and responsive Pokemon card. 
 
