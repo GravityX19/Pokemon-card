@@ -10,7 +10,12 @@ Simple and responsible Pokémon card.
 
 ## PREVIEW
 
+### PC and tablet view
+
 # ![mobile view](https://raw.githubusercontent.com/GravityX19/Pokemon-card/main/pc.png)
+
+### Mobile view
+
 # ![Banner](https://raw.githubusercontent.com/GravityX19/Pokemon-card/main/mobile.png)
 
 ## LIVE PREVIEW
